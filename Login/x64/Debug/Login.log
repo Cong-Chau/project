@@ -1,0 +1,10 @@
+﻿  func_login.cpp
+D:\HK2\KTLT\LT\Đồ án Bonus\Login\Login\head_login.h(4,1): warning C4005: 'max': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(193,1): message : see previous definition of 'max'
+  main_login.cpp
+D:\HK2\KTLT\LT\Đồ án Bonus\Login\Login\head_login.h(4,1): warning C4005: 'max': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(193,1): message : see previous definition of 'max'
+D:\HK2\KTLT\LT\Đồ án Bonus\Login\Login\main_login.cpp(12,9): warning C4101: 'year': unreferenced local variable
+  Generating Code...
+D:\HK2\KTLT\LT\Đồ án Bonus\Login\Login\func_login.cpp(52): warning C4715: 'Login': not all control paths return a value
+  Login.vcxproj -> D:\HK2\KTLT\LT\Đồ án Bonus\Login\x64\Debug\Login.exe
